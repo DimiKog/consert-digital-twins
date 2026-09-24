@@ -1,0 +1,39 @@
+{
+  "name": "Researcher's Night Digital Twin #1",
+  "description": "Blockchain-registered digital twin of a physical 3D-printed object exhibited at Researcher's Night 2026 by the CoNSeRT Laboratory, University of West Attica.",
+  "image": "https://dimikog.github.io/consert-digital-twins/digital-twin-001.jpg",
+  "attributes": [
+    {
+      "trait_type": "Asset Type",
+      "value": "Physical Digital Twin"
+    },
+    {
+      "trait_type": "Physical Object",
+      "value": "3D-Printed Figure"
+    },
+    {
+      "trait_type": "Event",
+      "value": "Researcher's Night 2026"
+    },
+    {
+      "trait_type": "Laboratory",
+      "value": "CoNSeRT – COmputer Networks & SErvices Research laboraTory"
+    },
+    {
+      "trait_type": "Institution",
+      "value": "University of West Attica"
+    },
+    {
+      "trait_type": "Researcher",
+      "value": "Dimitris Kogias"
+    },
+    {
+      "trait_type": "Laboratory Director",
+      "value": "Charalampos Patrikakis"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Besu Edu-Net"
+    }
+  ]
+}
